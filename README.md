@@ -23,7 +23,14 @@ The feature selection techniques used are:
 2.Wrapper Method
 3.Embedded Method
 
-# CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+CODING AND OUTPUT:
+       ![image](https://github.com/user-attachments/assets/16c21948-5678-4751-b1c3-d0956602a4a8)
+       ![image](https://github.com/user-attachments/assets/a019a85c-4489-481e-ba02-f99f75706b01)
+       ![image](https://github.com/user-attachments/assets/5dcb18ce-0ca8-4fd8-9d18-e2a52593dc7d)
+       ![image](https://github.com/user-attachments/assets/25b753fd-a029-4655-a3ed-c0ec7ca11db5)
+       ![image](https://github.com/user-attachments/assets/cc994823-cbd0-44e4-b841-5fe6e242e3d9)
+       ![image](https://github.com/user-attachments/assets/f58cd2f0-f0a2-40e2-a51d-57a6678bb27e)
+       ![image](https://github.com/user-attachments/assets/1c64292c-1e84-4a21-b9e5-a6b9c2c10a84)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the given data is read and performed the Feature Scaling and Feature Selection process and saved the file
